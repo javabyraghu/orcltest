@@ -1,2 +1,3 @@
 welcome to all
-from sample
+auto update
+models ok
